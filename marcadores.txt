@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marcadores>
+    <pagina>
+        <nome>Wikipedia</nome>
+        <descricion>A enciclopedia libre</descricion>
+        <url>gl.wikipedia.org</url>
+    </pagina>
+    <pagina>
+        <nome>Wiki do CIFP Rodolfo Ucha</nome>
+        <descricion>Wiki con interesantes contidos técnicos</descricion>
+        <url>wiki.cifprodolfoucha.es</url>
+    </pagina>
+    <pagina>
+        <nome>w3schools</nome>
+        <descricion>Titoriais en inglés</descricion>
+        <url>w3schools.com</url>
+    </pagina>
+</marcadores>
+
+
+
+error en el nombre de pagina

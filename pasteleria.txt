@@ -1,0 +1,21 @@
+<?xml version="1.1" encoding="utf-8"?>
+<ventas>
+    <venta>
+        <cliente>
+            <cod>CL099756</cod>
+            <nombre>Uxía López Martínez</nombre>
+            <dirección>Rúa San Clemente 2, 1ºC</dirección>
+            <teléfono>666897895</teléfono>
+        </cliente>
+        <productos>
+            <producto>
+                <tipo>tarta</tipo>
+                <cod>T0123</cod>
+                <descripción>Tarta Red Velvet</descripción>
+            </producto>
+        </productos>
+    </venta>
+
+    <venta>
+    </venta>
+</ventas>

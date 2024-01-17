@@ -1,0 +1,36 @@
+<bancosimpaticogalego codigo="4444" nome="Banco Simpático Galego" abreviatura="BSG">
+    <presidente>
+        <nome>NomePresidente</nome>
+        <apelidos>ApelidosPresidente</apelidos>
+    </presidente>
+    <dataCreacion dia="01" mes="01" ano="2022" />
+
+    <sucursais>
+        <sucursal codigo="1001" superficie unidade="m2">
+            <personal>
+                <empregado codigo="E001">
+                    <nome>NomeEmpregado1</nome>
+                    <apelidos>ApelidosEmpregado1</apelidos>
+                    <nss>NSS123456789</nss>
+                    <cargo>Director</cargo>
+                </empregado>
+            </personal>
+        </sucursal>
+
+        <sucursal codigo="1002" superficie unidade="m2">
+            <personal>
+                <empregado codigo="E002">
+                    <nome>NomeEmpregado2</nome>
+                    <apelidos>ApelidosEmpregado2</apelidos>
+                    <nss>NSS987654321</nss>
+                    <cargo>Interventor</cargo>
+                </empregado>
+            </personal>
+        </sucursal>
+
+    </sucursais>
+</bancosimpaticogalego>ç
+
+
+
+error de no haber cerrado empregado
